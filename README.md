@@ -20,6 +20,8 @@
 ![EJS](https://img.shields.io/badge/EJS-FFB13B?style=for-the-badge&logo=ejs&logoColor=black)
 ![bcrypt](https://img.shields.io/badge/bcrypt-%24B4F0F0.svg?style=for-the-badge&logo=bcrypt&logoColor=white)
 ![argon2](https://img.shields.io/badge/argon2-%232F4F4F.svg?style=for-the-badge&logo=argon2&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%234B4D52.svg?style=for-the-badge&logo=vite&logoColor=FFD700)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 
