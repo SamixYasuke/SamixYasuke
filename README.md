@@ -26,8 +26,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamixYasuke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical)](https://github.com/SamixYasuke)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SamixYasuke&theme=radical)](https://git.io/streak-stats)
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SamixYasuke&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
