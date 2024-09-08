@@ -18,6 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-FFB13B?style=for-the-badge&logo=ejs&logoColor=black)
+![bcrypt](https://img.shields.io/badge/bcrypt-%24B4F0F0.svg?style=for-the-badge&logo=bcrypt&logoColor=white)
+![argon2](https://img.shields.io/badge/argon2-%232F4F4F.svg?style=for-the-badge&logo=argon2&logoColor=white)
 
 
 
