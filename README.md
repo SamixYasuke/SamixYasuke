@@ -2,7 +2,7 @@
 🌍 I'm based in Nigeria
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/samixx_yasuke?t=qfoThr0XH3GCKX9Ckp8-ag&s=09)  
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/samixx_yasuke?t=qfoThr0XH3GCKX9Ckp8-ag&s=09)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
