@@ -31,9 +31,14 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamixYasuke&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamixYasuke&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SamixYasuke&theme=radical)](https://git.io/streak-stats)
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SamixYasuke&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamixYasuke&theme=react-dark)
-[Profile Views](https://komarev.com/ghpvc/?username=SamixYasuke&style=for-the-badge)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamixYasuke&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SamixYasuke&theme=radical)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SamixYasuke&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamixYasuke&theme=react-dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SamixYasuke&style=for-the-badge)
 
