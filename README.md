@@ -40,15 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamixYasuke&theme=radical&hide_border=true" height="180" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamixYasuke&theme=react-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamixYasuke&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 
