@@ -29,16 +29,26 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamixYasuke&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamixYasuke&style=for-the-badge" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamixYasuke&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamixYasuke&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamixYasuke&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SamixYasuke&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SamixYasuke&theme=radical&hide_border=true" height="180" />
+</p>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SamixYasuke&theme=radical)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamixYasuke&theme=react-dark&hide_border=true" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamixYasuke&theme=react-dark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamixYasuke&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SamixYasuke&style=for-the-badge)
 
